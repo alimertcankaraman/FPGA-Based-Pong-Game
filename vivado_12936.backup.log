@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.2.2 (64-bit)
+# SW Build 2348494 on Mon Oct  1 18:25:44 MDT 2018
+# IP Build 2318053 on Mon Oct  1 21:44:26 MDT 2018
+# Start of session at: Thu Dec 26 16:08:03 2019
+# Process ID: 12936
+# Current directory: C:/Users/BresciaPC/Vivado Projects/Ace_Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6616 C:\Users\BresciaPC\Vivado Projects\Ace_Project\Ace_Project.xpr
+# Log file: C:/Users/BresciaPC/Vivado Projects/Ace_Project/vivado.log
+# Journal file: C:/Users/BresciaPC/Vivado Projects/Ace_Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/BresciaPC/Vivado Projects/Ace_Project/Ace_Project.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:17 ; elapsed = 00:00:09 . Memory (MB): peak = 840.824 ; gain = 107.367
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Dec 26 16:08:46 2019...

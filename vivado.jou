@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2018.2.2 (64-bit)
+# SW Build 2348494 on Mon Oct  1 18:25:44 MDT 2018
+# IP Build 2318053 on Mon Oct  1 21:44:26 MDT 2018
+# Start of session at: Fri Jan 17 19:54:17 2020
+# Process ID: 8316
+# Current directory: C:/Users/BresciaPC/Vivado Projects/Ace_Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12280 C:\Users\BresciaPC\Vivado Projects\Ace_Project\Ace_Project.xpr
+# Log file: C:/Users/BresciaPC/Vivado Projects/Ace_Project/vivado.log
+# Journal file: C:/Users/BresciaPC/Vivado Projects/Ace_Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/BresciaPC/Vivado Projects/Ace_Project/Ace_Project.xpr}
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
